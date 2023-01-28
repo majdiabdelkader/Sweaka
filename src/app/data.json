@@ -1,0 +1,134 @@
+[
+        {
+            "id" : 1 ,
+            "name" : "informatique",
+            "classes" : [
+                {
+                    "idClasse": 1,
+                    "name": "3A1",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 1,
+                            "firstName" :"majdi",
+                            "lastName" :"abdelkader",
+                            "email" :"majdiabdelkader@gmail.com"
+                        },
+                        {
+                            "idEtudiant": 2,
+                            "firstName" :"adel",
+                            "lastName" :"oueslati",
+                            "email" :"adeloueslati@gmail.com"
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 2,
+                    "name": "3A2",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 3,
+                            "firstName" :"oussema",
+                            "lastName" :"abdelkader",
+                            "email" :"oussemaabdelkader@gmail.com"
+                        },
+                        {
+                            "idEtudiant": 4,
+                            "firstName" :"hassen",
+                            "lastName" :"oueslati",
+                            "email" :"hassenoueslati@gmail.com"
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 3,
+                    "name": "3A3",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 5,
+                            "firstName" :"aziz",
+                            "lastName" :"abdelkader",
+                            "email" :"azizabdelkader@gmail.com"
+                        },
+                        {
+                            "idEtudiant": 6,
+                            "firstName" :"achref",
+                            "lastName" :"abdelkader",
+                            "email" :"achrefabdelkader@gmail.com"
+                        }
+                    ]
+
+                }
+
+            ]
+
+        },
+        {
+            "id" : 2 ,
+            "name" : "mécanique",
+            "classes" : [
+                {
+                    "idClasse": 4,
+                    "name": "3M1",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 7,
+                            "firstName" :"yasin",
+                            "lastName" :"abdelkader",
+                            "email" :"yasinabdelkader@gmail.com"
+                        },
+                        {
+                            "idEtudiant": 8,
+                            "firstName" :"achref",
+                            "lastName" :"hakimi",
+                            "email" :"achrefhakimi@gmail.com"
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 5,
+                    "name": "3M2",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 9,
+                            "firstName" :"adem",
+                            "lastName" :"abdelkader",
+                            "email" :"ademabdelkader@gmail.com"
+                        },
+                        {
+                            "idEtudiant": 10,
+                            "firstName" :"achref",
+                            "lastName" :"oueslati",
+                            "email" :"achrefoueslati@gmail.com"
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 6,
+                    "name": "3M3",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 11,
+                            "firstName" :"aziz",
+                            "lastName" :"abid",
+                            "email" :"azizabid@gmail.com"
+                        },
+                        {
+                            "idEtudiant": 12,
+                            "firstName" :"nizar",
+                            "lastName" :"abdelkader",
+                            "email" :"nizarabdelkader@gmail.com"
+                        }
+                    ]
+
+                }
+
+            ]
+
+        }
+
+    
+]

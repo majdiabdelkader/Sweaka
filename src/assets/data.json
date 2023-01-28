@@ -1,0 +1,281 @@
+[
+        {
+            "id" : 1 ,
+            "name" : "Informatique",
+            "classes" : [
+                {
+                    "idClasse": 1,
+                    "name": "3A1",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 1,
+                            "firstName" :"majdi",
+                            "lastName" :"abdelkader",
+                            "email" :"majdiabdelkader@gmail.com",
+                            "telephone" : "26473892"
+                        },
+                        {
+                            "idEtudiant": 2,
+                            "firstName" :"adel",
+                            "lastName" :"oueslati",
+                            "email" :"adeloueslati@gmail.com",
+                            "telephone" : "12653892"
+                        },
+                        {
+                            "idEtudiant": 16,
+                            "firstName" :"Khouloud",
+                            "lastName" :"BenAli",
+                            "email" :"Khouloud@gmail.com",
+                            "telephone" : "78923746"
+                        },
+                        {
+                            "idEtudiant": 17,
+                            "firstName" :"Alan",
+                            "lastName" :"beboli",
+                            "email" :"Alan121@gmail.com"
+
+                        },
+                        {
+                            "idEtudiant": 100,
+                            "firstName" :"majdi",
+                            "lastName" :"abdelkader",
+                            "email" :"majdiabdelkader@gmail.com",
+                            "telephone" : "26473892"
+                        },
+                        {
+                            "idEtudiant": 34,
+                            "firstName" :"Paul",
+                            "lastName" :"moli",
+                            "email" :"Paul@gmail.com",
+                            "telephone" : "26222892"
+                        }
+
+                    ]
+
+                },
+
+                {
+                    "idClasse": 2,
+                    "name": "3A2",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 3,
+                            "firstName" :"oussema",
+                            "lastName" :"abdelkader",
+                            "email" :"oussemaabdelkader@gmail.com",
+                            "telephone" : "24564222"
+                        },
+                        {
+                            "idEtudiant": 4,
+                            "firstName" :"hassen",
+                            "lastName" :"oueslati",
+                            "email" :"hassenoueslati@gmail.com",
+                            "telephone" : "264678765"
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 3,
+                    "name": "3A3",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 5,
+                            "firstName" :"aziz",
+                            "lastName" :"abdelkader",
+                            "email" :"azizabdelkader@gmail.com",
+                            "telephone" : "26473442"
+                        },
+                        {
+                            "idEtudiant": 6,
+                            "firstName" :"achref",
+                            "lastName" :"abdelkader",
+                            "email" :"achrefabdelkader@gmail.com",
+                            "telephone" : "2647334492"
+                        }
+                    ]
+
+                },
+
+                {
+                    "idClasse": 2,
+                    "name": "3A4",
+                    "etudiants":[
+                        {
+                            "idEtudiant":1023,
+                            "firstName" :"oussema",
+                            "lastName" :"abdelkader",
+                            "email" :"oussemaabdelkader@gmail.com",
+                            "telephone" : "24564222"
+                        },
+                        {
+                            "idEtudiant": 1234,
+                            "firstName" :"hassen",
+                            "lastName" :"oueslati",
+                            "email" :"hassenoueslati@gmail.com",
+                            "telephone" : "264678765"
+                        }
+                    ]
+
+                }
+
+
+
+            ]
+
+        },
+        {
+            "id" : 2 ,
+            "name" : "Mécanique",
+            "classes" : [
+                {
+                    "idClasse": 4,
+                    "name": "3M1",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 7,
+                            "firstName" :"yasin",
+                            "lastName" :"abdelkader",
+                            "email" :"yasinabdelkader@gmail.com",
+                            "telephone" : "26473892"
+                        },
+                        {
+                            "idEtudiant": 8,
+                            "firstName" :"achref",
+                            "lastName" :"hakimi",
+                            "email" :"achrefhakimi@gmail.com",
+                            "telephone" : "2433292"
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 5,
+                    "name": "3M2",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 9,
+                            "firstName" :"adem",
+                            "lastName" :"abdelkader",
+                            "email" :"ademabdelkader@gmail.com",
+                            "telephone" : "26473892"
+                        },
+                        {
+                            "idEtudiant": 10,
+                            "firstName" :"achref",
+                            "lastName" :"oueslati",
+                            "email" :"achrefoueslati@gmail.com",
+                            "telephone" : "253322"
+
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 6,
+                    "name": "3M3",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 11,
+                            "firstName" :"aziz",
+                            "lastName" :"abid",
+                            "email" :"azizabid@gmail.com",
+                            "telephone" : "2634T43592"
+                        },
+                        {
+                            "idEtudiant": 12,
+                            "firstName" :"nizar",
+                            "lastName" :"abdelkader",
+                            "email" :"nizarabdelkader@gmail.com",
+                            "telephone" : "5778892"
+                        }
+                    ]
+
+                }
+
+            ]
+
+        },
+        {
+            "id" : 3 ,
+            "name" : "Génie Civil",
+            "classes" : [
+                {
+                    "idClasse": 7,
+                    "name": "3GC1",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 14,
+                            "firstName" :"Alex",
+                            "lastName" :"Rois",
+                            "email" :"Alex1Rois@gmail.com",
+                            "telephone" : "26656882"
+
+                        },
+                        {
+                            "idEtudiant": 15,
+                            "firstName" :"Alan",
+                            "lastName" :"Troue",
+                            "email" :"Alan121@gmail.com",
+                            "telephone" : "5678882"
+                        },
+                        {
+                            "idEtudiant": 20,
+                            "firstName" :"ameni",
+                            "lastName" :"Troue",
+                            "email" :"ameni121@gmail.com",
+                            "telephone" : "54323892"
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 8,
+                    "name": "3GC2",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 10,
+                            "firstName" :"loe",
+                            "lastName" :"alan",
+                            "email" :"leo10@gmail.com",
+                            "telephone" : "456773892"
+                        },
+                        {
+                            "idEtudiant": 11,
+                            "firstName" :"achref",
+                            "lastName" :"ammar",
+                            "email" :"achrefoueslati@gmail.com",
+                            "telephone" : "6778902"
+                        }
+                    ]
+
+                },
+                {
+                    "idClasse": 9,
+                    "name": "3GC3",
+                    "etudiants":[
+                        {
+                            "idEtudiant": 12,
+                            "firstName" :"alan",
+                            "lastName" :"paul",
+                            "email" :"alanpaul@gmail.com",
+                            "telephone" : "555662"
+                        },
+                        {
+                            "idEtudiant": 13,
+                            "firstName" :"Nour",
+                            "lastName" :"mohamed",
+                            "email" :"Nourmohamed@gmail.com",
+                            "telephone" : "45677883892"
+                        }
+                    ]
+
+                }
+
+            ]
+
+        }
+
+
+
+]

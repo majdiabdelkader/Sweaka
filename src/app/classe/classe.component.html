@@ -1,0 +1,20 @@
+<div class="card">
+  <h5 class="card-header">Class</h5>
+  <div class="table-responsive text-nowrap">
+    <table class="table table-striped mt-3">
+      <thead>
+      <tr>
+        <th>#</th>
+        <th>Name</th>
+      </tr>
+      </thead>
+      <tbody class="table-border-bottom-0" *ngFor="let classe of ListClasse">
+      <tr>
+        <td>{{classe.idClasse}}</td>
+        <td>{{classe.name}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+

@@ -1,0 +1,23 @@
+<div class="card">
+  <h5 class="card-header">Etudiant</h5>
+  <div class="table-responsive text-nowrap">
+    <table class="table table-striped mt-3">
+      <thead>
+      <tr>
+        <th>#</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Email</th>
+      </tr>
+      </thead>
+      <tbody class="table-border-bottom-0" *ngFor="let etudiant of ListEtudiant">
+      <tr>
+        <td>{{etudiant.idEtudiant}}</td>
+        <td>{{etudiant.firstName}}</td>
+        <td>{{etudiant.lastName}}</td>
+        <td>{{etudiant.email}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
